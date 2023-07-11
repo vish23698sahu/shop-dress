@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": "dress1",
+      "title": "Mini sundress with shirning detail",
+      "image": "/images/dress1.jpg",
+      "description": "description dress 1",
+      "price": 1900.8,
+      "availableSizes": ["XL", "XXL"]
+    },
+    {
+      "id": "dress2",
+      "title": "Mini sundress with ruched front",
+      "image": "/images/dress2.jpg",
+      "description": "description dress 2",
+      "price": 3900,
+      "availableSizes": ["XL", "XXL"]
+    },
+    {
+      "id": "dress3",
+      "title": "Midi dress in pink ditsy floral",
+      "image": "/images/dress3.jpg",
+      "description": "description dress 3",
+      "price": 3000,
+      "availableSizes": ["XL", "XXL"]
+    },
+    {
+      "id": "dress4",
+      "title": "Cami midi dress in polka dot",
+      "image": "/images/dress4.jpg",
+      "description": "description dress 3",
+      "price": 1800.9,
+      "availableSizes": ["XL", "XXL"]
+    },
+    {
+      "id": "dress5",
+      "title": "Frill mini dress in yellow polka dot",
+      "image": "/images/dress5.jpg",
+      "description": "description dress 3",
+      "price": 2300.5,
+      "availableSizes": ["XL", "XXL"]
+    },
+    {
+      "id": "dress6",
+      "title": "Mini tea dress in blue and red spot",
+      "image": "/images/dress6.jpg",
+      "description": "description dress 3",
+      "price": 1900.9,
+      "availableSizes": ["XL", "XXL"]
+    }
+  ]
+}
